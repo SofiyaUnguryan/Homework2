@@ -83,6 +83,7 @@ public class Main {
     }
     public static void task7 () {
         System.out.println("Задача 7");
+
         var firstBoxerWeight = 78.2;
         var secondBoxerWeight = 82.7;
         var weightDifference = secondBoxerWeight - firstBoxerWeight;
@@ -92,6 +93,7 @@ public class Main {
     }
     public static void task8 () {
         System.out.println("Задача 8");
+
         var totalHours = 640;
         var totalWorkers = totalHours / 8;
         System.out.println("Всего работников в компании — " + totalWorkers + " человек");
